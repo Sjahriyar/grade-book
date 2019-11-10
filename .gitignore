@@ -1,0 +1,6 @@
+*.suo
+*.user
+_ReSharper.*
+Gradebook.sln
+.vs
+obj
