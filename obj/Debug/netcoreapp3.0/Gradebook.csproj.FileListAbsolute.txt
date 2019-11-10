@@ -1,0 +1,11 @@
+/Users/sheril/Documents/Projects/Personal/Gradebook/bin/Debug/netcoreapp3.0/Gradebook
+/Users/sheril/Documents/Projects/Personal/Gradebook/bin/Debug/netcoreapp3.0/Gradebook.deps.json
+/Users/sheril/Documents/Projects/Personal/Gradebook/bin/Debug/netcoreapp3.0/Gradebook.runtimeconfig.json
+/Users/sheril/Documents/Projects/Personal/Gradebook/bin/Debug/netcoreapp3.0/Gradebook.runtimeconfig.dev.json
+/Users/sheril/Documents/Projects/Personal/Gradebook/bin/Debug/netcoreapp3.0/Gradebook.dll
+/Users/sheril/Documents/Projects/Personal/Gradebook/bin/Debug/netcoreapp3.0/Gradebook.pdb
+/Users/sheril/Documents/Projects/Personal/Gradebook/obj/Debug/netcoreapp3.0/Gradebook.csprojAssemblyReference.cache
+/Users/sheril/Documents/Projects/Personal/Gradebook/obj/Debug/netcoreapp3.0/Gradebook.AssemblyInfoInputs.cache
+/Users/sheril/Documents/Projects/Personal/Gradebook/obj/Debug/netcoreapp3.0/Gradebook.AssemblyInfo.cs
+/Users/sheril/Documents/Projects/Personal/Gradebook/obj/Debug/netcoreapp3.0/Gradebook.dll
+/Users/sheril/Documents/Projects/Personal/Gradebook/obj/Debug/netcoreapp3.0/Gradebook.pdb
