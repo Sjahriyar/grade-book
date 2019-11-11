@@ -28,5 +28,27 @@ namespace Gradebook
 
         public char LetterGrade { get; set; }
         [JsonIgnore]
+
+        public double GPA { get; set; }
+
+        public Student(string name, StudentType type, EnrollmentType enrollment)
+        {
+            Name = name;
+            Type = type;
+            Enrollment = enrollment;
+            Grades = new List<double>();
+        }
+
+        public void AddGrade(double grade)
+        {
+            if (grade < 0 || grade > 100)
+                throw new ArgumentException("Grades must be between 0 and 100");
+            Grades.Add(grade);
+        }
+
+        public void RemoveGrade(double grade)
+        {
+            Grades.Remove(grade);
+        }
     }
 }
